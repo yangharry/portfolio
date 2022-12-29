@@ -90,7 +90,7 @@
 
 .box5 {
     width: 80%;
-    min-width: 483px;
+    min-width: 320px;
     max-width: 1400px;
     margin: auto;
     color: white;
@@ -144,6 +144,30 @@
     left: 0px;
     padding: 40px;
     font-size: 16px;
+}
+
+@media screen and (max-width:500px){
+    .box5-1-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 20px;
+    font-size: 8px;
+}
+    .box3-2 div {
+        font-size: 10px
+
+}
+    .box3-2 i{
+        width: 62.5px;
+        height: 62.5px;
+        border-radius: 31.25px;
+        padding-top: 15px;
+
+    }
+    .box1,.box2 {
+        font-size: 10px;
+    }
 }
 
 
