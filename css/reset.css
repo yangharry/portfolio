@@ -4,6 +4,15 @@ body {
     font-family: 'NanumSquare','NanumSquareRound','sans-serif';
 }
 
+<<<<<<< HEAD
 div {
     box-sizing: border-box;
 }
+=======
+div,i {
+    box-sizing: border-box;
+}
+.lg {
+    font-size: 18px;
+}
+>>>>>>> 2fe6de54fad011371d032581ef9016b657c9e576
